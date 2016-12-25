@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_image_status_locked"
+        android:checkable="false"
+        android:enabled="false"
+        android:icon="@drawable/ic_action_status_lock"
+        android:title="@string/status_lock"
+        app:showAsAction="ifRoom" />
+    <group>
+        <item
+            android:id="@+id/menu_image_group_camera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/menu_image_group_reset_background"
+            android:title="Reset Background" />
+    </group>
+</menu>

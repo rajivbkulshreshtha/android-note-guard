@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Note Guard</string>
+    <string name="save">Save</string>
+    <string name="lock">Lock</string>
+    <string name="status_unlock">status_unlock</string>
+    <string name="status_lock">status_lock</string>
+    <string name="reset_passpoint">Reset Passpoint</string>
+    <string name="access_denied">Access Denied</string>
+    <string name="file_loaded">File loaded</string>
+    <string name="failed_to_load">Failed to load</string>
+    <string name="saved">Saved</string>
+    <string name="failed_to_save">Failed to save</string>
 </resources>
